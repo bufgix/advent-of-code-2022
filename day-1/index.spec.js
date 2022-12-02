@@ -17,10 +17,11 @@ const testInput = `1000
 
 10000`;
 
-describe("solution 1", function () {
+describe("day 1", function () {
   test("q1", function () {
     expect(solution1(testInput)).toBe(24000);
   });
+  
 
   test("q2", function () {
     expect(solution2(testInput)).toBe(45000);

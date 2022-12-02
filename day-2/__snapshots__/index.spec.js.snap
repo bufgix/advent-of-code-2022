@@ -1,0 +1,5 @@
+// Vitest Snapshot v1
+
+exports[`day 2 > q1 1`] = `11767`;
+
+exports[`day 2 > q2 1`] = `13886`;
